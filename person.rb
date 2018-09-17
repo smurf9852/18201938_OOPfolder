@@ -23,6 +23,8 @@ class Person
 
 end
 
+puts "Extra feature right here people"
+
 john = Person.new('John')
 
 20.times do
